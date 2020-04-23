@@ -1,0 +1,364 @@
+date,pagePath,source,medium,adContent,campaign,region,city,uniquePageviews,bounces,timeOnPage,sessions,newUsers,pageviews,exits,sessionDuration,Code_Audience
+07/01/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Central Development Region,Kathmandu,1,0,0,0,0,1,1,0,HS - Thank You
+07/01/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Tirana County,(not set),1,0,30,0,0,1,0,0,HS - Thank You
+07/03/2017,/begin/thank-you,(direct),(none),(not set),(not set),Massachusetts,Lawrence,1,0,3,0,0,1,0,0,NA
+07/03/2017,/begin/thank-you,google,organic,(not set),(not set),Massachusetts,Groton,1,0,876,0,0,1,0,0,NA
+07/03/2017,/everyone-transfer-college-credits/thank-you,google,cpc,Transfer Your College,FY2017_Transfer,Massachusetts,Malden,1,0,0,0,0,1,1,0,CU - Thank You
+07/04/2017,/begin/thank-you,(direct),(none),(not set),(not set),New York,New York,1,0,42,0,0,2,0,0,NA
+07/04/2017,/begin/thank-you,TargetX,Email,SearchEmail2,FY17_Search_4J,Massachusetts,Lynn,1,0,27,0,0,1,0,0,NA
+07/04/2017,/begin/thank-you,TargetX,Email,SearchEmail2,FY17_Search_4J,New Hampshire,Windham,1,0,0,0,0,1,1,0,NA
+07/04/2017,/everyone-graduate-degree/thank-you,google,cpc,Graduate Degree Programs,FY2017_Graduate,Federal Capital Territory,Abuja,1,0,0,0,0,1,1,0,GR - Thank You
+07/04/2017,/everyone-transfer-college-credits/thank-you,google,cpc,Transfer Your College,FY2017_Transfer,Dhaka Division,(not set),1,0,72,0,0,1,0,0,CU - Thank You
+07/05/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Maine,Lewiston,1,0,26,0,0,1,0,0,HS - Thank You
+07/06/2017,/begin/thank-you,(direct),(none),(not set),(not set),Massachusetts,Boston,1,0,0,0,0,1,1,0,NA
+07/06/2017,/everyone-transfer-college-credits/thank-you,google,cpc,Transfer Your College,FY2017_Transfer,Seoul,Seoul,1,0,0,0,0,1,1,0,CU - Thank You
+07/06/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Riyadh Province,Riyadh,1,0,9,0,0,1,0,0,HS - Thank You
+07/08/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Arkansas,Conway,1,0,7,0,0,1,0,0,HS - Thank You
+07/09/2017,/begin/thank-you,TargetX,Email,SearchEmail2,FY17_Search_4J,Louisiana,New Orleans,1,0,8,0,0,1,0,0,NA
+07/09/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Massachusetts,Boston,1,0,7,0,0,1,0,0,HS - Thank You
+07/10/2017,/everyone-transfer-college-credits/thank-you,google,cpc,University of Southern Maine,FY2017_Transfer,Massachusetts,Boston,1,0,43,0,0,1,0,0,CU - Thank You
+07/11/2017,/everyone-graduate-degree/thank-you,google,cpc,University of Southern Maine,FY2017_Graduate,Georgia,Athens,1,0,31,0,0,2,1,0,GR - Thank You
+07/11/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Maine,Scarborough,1,0,86,0,0,1,0,0,HS - Thank You
+07/12/2017,/begin/thank-you,(direct),(none),(not set),(not set),Massachusetts,Peabody,1,0,0,0,0,1,1,0,NA
+07/12/2017,/begin/thank-you,bing,organic,(not set),(not set),Maine,Naples,1,0,33,0,0,1,0,0,NA
+07/12/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,Maine,Orono,1,0,0,0,0,1,1,0,NA
+07/12/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,Massachusetts,Wakefield,1,0,9,0,0,1,0,0,NA
+07/12/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,New York,New York,1,0,26,0,0,1,0,0,NA
+07/13/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,Maine,Auburn,1,0,0,0,0,1,1,0,NA
+07/13/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,Maine,Brewer,1,0,0,0,0,1,1,0,NA
+07/13/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,Massachusetts,Boston,1,1,0,1,0,1,1,0,NA
+07/13/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,New Hampshire,Dover,2,1,0,1,0,2,2,0,NA
+07/13/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Grand Est,Mulhouse,1,0,99,0,0,1,0,0,HS - Thank You
+07/13/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Massachusetts,Boston,1,0,0,0,0,1,1,0,HS - Thank You
+07/16/2017,/everyone-transfer-college-credits/thank-you,google,cpc,University of Southern Maine,FY2017_Transfer,Texas,Laredo,1,0,0,0,0,1,1,0,CU - Thank You
+07/19/2017,/everyone-transfer-college-credits/thank-you,google,cpc,University of Southern Maine,FY2017_Transfer,Maine,Raymond,1,1,0,1,0,1,1,0,CU - Thank You
+07/23/2017,/begin/thank-you,bing,organic,(not set),(not set),Maine,Monmouth,1,0,36,0,0,1,0,0,NA
+07/25/2017,/begin/thank-you,(direct),(none),(not set),(not set),New Hampshire,Salem,1,0,45,0,0,1,0,0,NA
+07/25/2017,/begin/thank-you,TargetX,Email,SearchEmail1,FY17_Search_4J,Massachusetts,Boston,1,0,4,0,0,1,0,0,NA
+07/25/2017,/begin/thank-you,TargetX,Email,SearchEmail2,FY17_Search_4J,Massachusetts,Medford,1,0,10,0,0,1,0,0,NA
+07/27/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Maine,Southport,1,0,0,0,0,1,1,0,NA
+07/27/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Massachusetts,Boston,1,0,97,0,0,1,0,0,NA
+07/27/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Massachusetts,Littleton,1,0,0,0,0,1,1,0,NA
+07/27/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Maine,Lewiston,1,0,53,0,0,1,0,0,HS - Thank You
+07/28/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,New York,New York,1,1,0,1,0,1,1,0,NA
+07/29/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Florida,Orlando,1,0,33,0,0,1,0,0,NA
+07/29/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Massachusetts,Lawrence,1,0,0,0,0,1,1,0,NA
+07/29/2017,/everyone-graduate-degree/thank-you,google,cpc,University of Southern Maine,FY2017_Graduate,Lagos,Lagos,1,0,24,0,0,2,0,0,GR - Thank You
+07/29/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Lagos,Lagos,1,0,35,0,0,1,0,0,HS - Thank You
+07/31/2017,/everyone-undergraduate-degree/thank-you,google,cpc,Undergraduate Degree Programs,FY2017_Undergrad,Indiana,Terre Haute,1,0,16,0,0,1,0,0,HS - Thank You
+08/10/2017,/begin/thank-you,TargetX,Email,SearchEmail5,FY17_Search_4J,Maine,Westbrook,1,0,0,0,0,1,1,0,NA
+08/12/2017,/begin/thank-you,TargetX,Email,SearchEmail5,FY17_Search_4J,New Hampshire,Hollis,1,0,0,0,0,1,1,0,NA
+08/13/2017,/begin/thank-you,TargetX,Email,SearchEmail5,FY17_Search_4J,Maine,Camden,1,0,11,0,0,1,0,0,NA
+08/15/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Tbilisi,Tbilisi,1,0,0,0,0,1,1,0,HS - Thank You
+08/16/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Auburn,1,0,1694,0,0,5,0,0,HS - Thank You
+08/16/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,California,Ventura,1,0,0,0,0,1,1,0,HS - Thank You
+08/17/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,New Jersey,Sparta Township,1,0,27,0,0,1,0,0,HS - Thank You
+08/18/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Islamabad Capital Territory,Islamabad,1,0,0,0,0,1,1,0,HS - Thank You
+08/18/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Lewiston,1,0,100,0,0,1,0,0,HS - Thank You
+08/18/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,(not set),Addis Ababa,1,0,843,1,0,1,0,1030,HS - Thank You
+08/20/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Auburn,1,0,10,0,0,1,0,0,CU - Thank You
+08/21/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Bangor,1,0,0,0,0,1,1,0,GR - Thank You
+08/22/2017,/begin/thank-you,TargetX,Email,SearchEmail6,FY17_Search_4J,Maine,Freeport,1,0,0,0,0,1,1,0,NA
+08/22/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,Master's Degree Program,FY2018_Graduate,Connecticut,Avon,1,0,16,0,0,1,0,0,GR - Thank You
+08/22/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Freeport,1,0,48,0,0,2,0,0,GR - Thank You
+08/23/2017,/begin/thank-you,TargetX,Email,SearchEmail6,FY17_Search_4J,Massachusetts,Dracut,1,0,0,0,0,1,1,0,NA
+08/23/2017,/begin/thank-you,TargetX,Email,SearchEmail6,FY17_Search_4J,Massachusetts,Methuen,1,0,0,0,0,1,1,0,NA
+08/23/2017,/begin/thank-you,TargetX,Email,SearchEmail6,FY17_Search_4J,New Hampshire,Rindge,1,0,13,0,0,1,0,0,NA
+08/23/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Pennsylvania,Doylestown,1,0,10,0,0,1,0,0,CU - Thank You
+08/24/2017,/begin/thank-you,TargetX,Email,SearchEmail6,FY17_Search_4J,Massachusetts,Boston,1,0,70,0,0,1,0,0,NA
+08/24/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Brunswick,1,0,0,0,0,1,1,0,HS - Thank You
+08/24/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Boston,1,0,15,0,0,1,0,0,HS - Thank You
+08/24/2017,/welcome-transfer-students/thank-you,Facebook,LeadGen,CU_TR,FY2018_Transfer,New York,Scotchtown,1,0,0,0,0,1,1,0,CU - Thank You
+08/27/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Massachusetts,Newton,1,1,0,1,0,1,1,0,NA
+08/28/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Massachusetts,Newton,1,1,0,1,0,1,1,0,NA
+08/28/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New York,Fort Edward,1,0,0,0,0,1,1,0,CU - Thank You
+08/29/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,New Jersey,(not set),1,0,8,0,0,1,0,0,GR - Thank You
+08/29/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Portland,1,0,13,0,0,1,0,0,OL - Thank You
+08/29/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Kigali City,Kigali,1,0,64,0,0,2,0,0,CU - Thank You
+08/30/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Gauteng,Germiston,1,0,0,0,0,1,1,0,HS - Thank You
+08/30/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Boston,1,0,0,0,0,1,1,0,CU - Thank You
+08/31/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,(not set),Addis Ababa,1,0,0,0,0,1,1,0,HS - Thank You
+08/31/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Boston,1,1,0,1,0,1,1,0,CU - Thank You
+09/01/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Lewiston,1,0,0,0,0,1,1,0,HS - Thank You
+09/02/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Boston,1,0,19,0,0,1,0,0,CU - Thank You
+09/02/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Kittery,1,0,0,0,0,1,1,0,CU - Thank You
+09/03/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Massachusetts,North Reading,1,0,398,0,0,1,0,0,HS - Thank You
+09/03/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Monmouth,1,0,10,0,0,1,0,0,HS - Thank You
+09/04/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,North Carolina,Greenville,1,0,49,0,0,1,0,0,HS - Thank You
+09/05/2017,/begin/thank-you,TargetX,Email,SearchEmail3,FY17_Search_4J,Maine,Monmouth,1,0,17,0,0,1,0,0,NA
+09/05/2017,/begin/thank-you,TargetX,Email,SearchEmail7,FY17_Search_4J,Massachusetts,Woburn,1,0,0,0,0,1,1,0,NA
+09/05/2017,/begin/thank-you,TargetX,Email,SearchEmail7,FY17_Search_4J,New Hampshire,Dover,1,0,0,0,0,1,1,0,NA
+09/05/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Portland,1,0,19,0,0,1,0,0,HS - Thank You
+09/06/2017,/begin/thank-you,TargetX,Email,SearchEmail7,FY17_Search_4J,Maine,Dover-Foxcroft,1,0,0,0,0,1,1,0,NA
+09/06/2017,/welcome-high-school-students/thank-you,google,cpc,WA_Option1,FY2018_Gmail,(not set),(not set),1,0,0,0,0,1,1,0,HS - Thank You
+09/06/2017,/welcome-transfer-students/thank-you,google,cpc,WA_Option1,FY2018_Gmail,Maine,Buxton,1,0,0,0,0,1,1,0,CU - Thank You
+09/07/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,North Western Province,(not set),2,1,0,1,0,2,2,0,HS - Thank You
+09/07/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Pennsylvania,Bensalem,1,0,5,0,0,1,0,0,CU - Thank You
+09/07/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,West Sumatra,Padang,1,0,18,0,0,1,0,0,CU - Thank You
+09/08/2017,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),Massachusetts,Boston,1,1,0,1,1,1,1,0,NA
+09/08/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Kittery,1,0,0,0,0,1,1,0,HS - Thank You
+09/08/2017,/welcome-high-school-students/thank-you,Spotify,Display,640x640,FY2018_Umbrella,Maine,Norway,1,0,259,0,0,2,0,0,HS - Thank You
+09/09/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Westbrook,1,0,49,0,0,2,0,0,HS - Thank You
+09/09/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Arkansas,Bentonville,1,0,10,0,0,1,0,0,HS - Thank You
+09/09/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,New Hampshire,Whitefield,2,0,123,1,0,3,1,122,HS - Thank You
+09/09/2017,/welcome-high-school-students/thank-you,google,cpc,WA_Option2,FY2018_Gmail,Maine,Bangor,1,0,49,0,0,1,0,0,HS - Thank You
+09/10/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Presque Isle,1,0,30,0,0,1,0,0,HS - Thank You
+09/11/2017,/welcome-degree-completion-seekers/thank-you,google,cpc,WA_Option2,FY2018_Gmail,Maine,Portland,1,0,0,0,0,1,1,0,DC - Thank You
+09/12/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Virginia,Hampton,1,0,0,0,0,1,1,0,GR - Thank You
+09/12/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,WA_Option3,FY2018_Gmail,Maine,Stetson,1,0,11,0,0,1,0,0,GR - Thank You
+09/12/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Hampden,1,0,22,0,0,1,0,0,CU - Thank You
+09/12/2017,/welcome-transfer-students/thank-you,google,cpc,WA_Option2,FY2018_Gmail,Maine,Auburn,1,0,12,0,0,1,0,0,CU - Thank You
+09/13/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Buxton,1,0,0,0,0,1,1,0,HS - Thank You
+09/14/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,{KeyWord:University of Southern Maine},FY2018_Graduate,Maine,Saco,1,0,13,0,0,1,0,0,GR - Thank You
+09/14/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,WA_Option3,FY2018_Gmail,Maine,Cape Elizabeth,1,0,4,0,0,1,0,0,GR - Thank You
+09/14/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Connecticut,Bloomfield,1,0,0,0,0,1,1,0,CU - Thank You
+09/16/2017,/begin/thank-you,TargetX,Email,SearchEmail4,FY17_Search_4J,Massachusetts,Newton,1,1,0,1,0,1,1,0,NA
+09/17/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Massachusetts,Boston,1,0,0,0,0,1,1,0,HS - Thank You
+09/17/2017,/welcome-online-degree-seekers/thank-you,google,cpc,WA_Option2,FY2018_Gmail,Maine,Ellsworth,1,0,11,0,0,1,0,0,OL - Thank You
+09/17/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Brunswick,1,0,0,0,0,1,1,0,CU - Thank You
+09/18/2017,/begin/thank-you,TargetX,Email,SearchEmail7,FY17_Search_4J,Massachusetts,Woburn,1,0,0,0,0,1,1,0,NA
+09/19/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Eastern Cape,Port Elizabeth,1,0,0,0,0,1,1,0,HS - Thank You
+09/19/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Idaho,Boise,1,0,66,0,0,3,0,0,CU - Thank You
+09/19/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Orono,1,0,24,0,0,1,0,0,CU - Thank You
+09/20/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Sanford,1,0,572,0,0,1,0,0,GR - Thank You
+09/20/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,WA_Option3,FY2018_Gmail,Maine,Standish,1,0,27,0,0,2,1,0,GR - Thank You
+09/20/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Florida,Orlando,1,0,86,0,0,1,0,0,HS - Thank You
+09/20/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New York,New York,1,0,0,0,0,1,1,0,CU - Thank You
+09/21/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_OOS_HS,FY2018_Undergrad,Rhode Island,Providence,1,0,0,0,0,1,1,0,HS - Thank You
+09/21/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maharashtra,Pune,1,0,36,0,0,1,0,0,CU - Thank You
+09/22/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Lewiston,1,0,167,0,0,1,0,0,CU - Thank You
+09/22/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New Hampshire,Newton,1,0,24,0,0,1,0,0,CU - Thank You
+09/23/2017,/welcome-online-degree-seekers/thank-you,google,cpc,WA_Option2,FY2018_Gmail,Maine,Lisbon,1,0,15,0,0,1,0,0,OL - Thank You
+09/24/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Rockland,1,0,0,0,0,1,1,0,HS - Thank You
+09/24/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Telangana,Hyderabad,1,0,0,0,0,1,1,0,HS - Thank You
+09/24/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Georgia,Ashburn,1,0,11,0,0,1,0,0,OL - Thank You
+09/27/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Massachusetts,Boston,1,0,1229,0,0,2,0,0,GR - Thank You
+09/27/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Portland,1,0,0,0,0,1,1,0,HS - Thank You
+09/27/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Portland,1,0,11,0,0,1,0,0,CU - Thank You
+09/28/2017,/welcome-high-school-students/thank-you,google,cpc,WA_Option2,FY2018_Gmail,Maine,Poland,1,0,46,0,0,1,0,0,HS - Thank You
+09/28/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Madhya Pradesh,Bhopal,1,0,23,0,0,1,0,0,CU - Thank You
+09/29/2017,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),Maine,York,1,0,30,0,0,1,0,0,NA
+09/30/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Wiscasset,1,0,0,0,0,1,1,0,HS - Thank You
+10/01/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Windsor,1,0,15,0,0,1,0,0,OL - Thank You
+10/01/2017,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,Maine,Freeport,1,0,0,0,0,1,1,0,CU - Thank You
+10/02/2017,/welcome-transfer-students/thank-you,DBM,Display,Lauren_V1,FY2018_Umbrella,Massachusetts,Framingham,1,0,8,0,0,1,0,0,CU - Thank You
+10/03/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Fairfield,1,0,0,0,0,1,1,0,CU - Thank You
+10/03/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New York,Plattsburgh,1,0,18,0,0,2,0,0,CU - Thank You
+10/04/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Massachusetts,Boston,1,0,22,0,0,1,0,0,OL - Thank You
+10/04/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Lewiston,1,0,36,0,0,1,0,0,CU - Thank You
+10/05/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Kennebunk,1,0,309,0,0,2,0,0,CU - Thank You
+10/07/2017,/start/thank-you,(direct),(none),(not set),(not set),Maine,Augusta,1,0,509,0,0,2,0,0,NA
+10/07/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,WA_Option3,FY2018_Gmail,Maine,Scarborough,1,0,14,0,0,1,0,0,GR - Thank You
+10/07/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Weymouth,2,1,0,1,0,2,2,0,HS - Thank You
+10/08/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Khyber Pakhtunkhwa,Peshawar,1,0,24,0,0,1,0,0,HS - Thank You
+10/09/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Massachusetts,Boston,1,0,0,0,0,1,1,0,HS - Thank You
+10/09/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,New York,New York,1,0,50,0,0,1,0,0,HS - Thank You
+10/09/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Florida,Orlando,1,0,21,0,0,1,0,0,CU - Thank You
+10/10/2017,/welcome-high-school-students/thank-you,Spotify,Display,640x640,FY2018_Umbrella,Maine,Belfast,1,0,0,0,0,1,1,0,HS - Thank You
+10/10/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Ho Chi Minh City,Ho Chi Minh City,1,0,102,0,0,2,0,0,CU - Thank You
+10/10/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Karnataka,Bengaluru,1,0,17,0,0,1,0,0,CU - Thank You
+10/10/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Portland,1,0,0,0,0,1,1,0,CU - Thank You
+10/10/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New Hampshire,Hudson,1,0,12,0,0,1,0,0,CU - Thank You
+10/11/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Cheshire,1,0,0,0,0,1,1,0,HS - Thank You
+10/11/2017,/welcome-high-school-students/thank-you,Spotify,Display,640x640,FY2018_Umbrella,Maine,Belfast,1,1,0,1,0,1,1,0,HS - Thank You
+10/12/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,St. James Parish,Montego Bay,1,0,18,0,0,1,0,0,HS - Thank You
+10/12/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Orono,1,0,0,0,0,1,1,0,HS - Thank You
+10/12/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Rhode Island,North Kingstown,1,0,283,0,0,1,0,0,CU - Thank You
+10/13/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Danvers,1,0,0,0,0,1,1,0,CU - Thank You
+10/14/2017,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Biddeford,1,0,0,0,0,1,1,0,HS - Thank You
+10/16/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New York,New York,1,0,28,0,0,1,0,0,CU - Thank You
+10/17/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Kericho County,(not set),1,0,0,0,0,1,1,0,HS - Thank You
+10/17/2017,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,Maine,Waterboro,1,0,0,0,0,1,1,0,CU - Thank You
+10/18/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Framingham,1,0,0,0,0,1,1,0,HS - Thank You
+10/18/2017,/welcome-online-degree-seekers/thank-you,google,cpc,WA_Option3,FY2018_Gmail,Maine,Brunswick,1,0,0,0,0,1,1,0,OL - Thank You
+10/18/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,County Dublin,Dublin,1,0,16,0,0,1,0,0,CU - Thank You
+10/19/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,North Carolina,Greenville,1,0,0,0,0,1,1,0,CU - Thank You
+10/20/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Cambridge,1,0,15,0,0,1,0,0,HS - Thank You
+10/22/2017,/welcome-transfer-students/thank-you,Gmail,Inbox,WA_Interests,FY2018_Gmail,Maine,Standish,1,0,0,0,0,1,1,0,CU - Thank You
+10/23/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Topsham,2,0,126,0,0,3,2,0,GR - Thank You
+10/23/2017,/welcome-online-degree-seekers/thank-you,DBM,Display,Lauren_V1,FY2018_Umbrella,Maine,Newfield,1,0,38,0,0,1,0,0,OL - Thank You
+10/24/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,Univ. of Southern Maine,FY2018_Graduate,New Hampshire,Lebanon,1,0,93,0,0,1,0,0,GR - Thank You
+10/24/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Calais,1,0,0,0,0,1,1,0,CU - Thank You
+10/24/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New Hampshire,Rindge,1,0,33,0,0,1,0,0,CU - Thank You
+10/25/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Portland,1,0,64,0,0,1,0,0,HS - Thank You
+10/25/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,(not set),Addis Ababa,1,0,0,0,0,1,1,0,HS - Thank You
+10/25/2017,/welcome-transfer-students/thank-you,SJ,Display,Veronica_V1,FY2018_Umbrella,Maine,Lewiston,1,0,0,0,0,1,1,0,CU - Thank You
+10/26/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,WA_Option1,FY2018_Gmail,Maine,Topsham,1,0,86,0,0,2,0,0,GR - Thank You
+10/27/2017,/welcome-degree-completion-seekers/thank-you,google,organic,(not set),(not set),Maine,Lewiston,1,0,54,0,0,1,0,0,DC - Thank You
+10/27/2017,/welcome-graduate-degree-seekers/thank-you,google,organic,(not set),(not set),Maine,Lewiston,1,0,43,0,0,1,0,0,GR - Thank You
+10/27/2017,/welcome-high-school-students/thank-you,(direct),(none),(not set),(not set),Maine,Lewiston,1,0,55,0,0,1,0,0,HS - Thank You
+10/27/2017,/welcome-high-school-students/thank-you,google,organic,(not set),(not set),Maine,Lewiston,1,0,536,0,0,1,0,0,HS - Thank You
+10/27/2017,/welcome-high-school-students/thank-you,Spotify,Display,640x640,FY2018_Umbrella,Maine,Saco,1,0,0,0,0,1,1,0,HS - Thank You
+10/27/2017,/welcome-online-degree-seekers/thank-you,google,organic,(not set),(not set),Maine,Lewiston,1,0,54,0,0,1,0,0,OL - Thank You
+10/27/2017,/welcome-transfer-students/thank-you,google,organic,(not set),(not set),Maine,Lewiston,1,0,59,0,0,1,0,0,CU - Thank You
+10/28/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Connecticut,Waterford,1,0,34,0,0,1,0,0,CU - Thank You
+11/01/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Westford,1,0,1691,0,0,1,0,0,HS - Thank You
+11/01/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Boston,1,0,30,0,0,2,1,0,CU - Thank You
+11/02/2017,/thank-you,enrole.com,referral,(not set),(not set),Maine,Portland,1,0,12,0,0,1,0,0,NA
+11/02/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Waterville,1,0,29,0,0,1,0,0,OL - Thank You
+11/04/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Portland,1,0,21,0,0,1,0,0,OL - Thank You
+11/05/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Connecticut,Deep River,1,0,6,0,0,1,0,0,HS - Thank You
+11/06/2017,/honors/thank-you-dara-jeanne-kaufman-fund,(direct),(none),(not set),(not set),California,(not set),1,1,0,1,1,1,1,0,NA
+11/06/2017,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),Missouri,Chesterfield,1,1,0,1,1,1,1,0,NA
+11/06/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New Jersey,Evesham Township,1,0,0,0,0,1,1,0,CU - Thank You
+11/07/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Portland,1,0,88,0,0,1,0,0,CU - Thank You
+11/08/2017,/honors/thank-you-dara-jeanne-kaufman-fund,google.com,referral,(not set),(not set),Kerala,Kochi,1,1,0,1,1,1,1,0,NA
+11/08/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Pennsylvania,Allentown,1,0,24,0,0,1,0,0,CU - Thank You
+11/09/2017,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),Delhi,(not set),1,1,0,1,1,1,1,0,NA
+11/09/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Central Development Region,Kathmandu,1,0,0,0,0,1,1,0,GR - Thank You
+11/09/2017,/welcome-transfer-students/thank-you,Spotify,Display,640x640,FY2018_Umbrella,North Carolina,Greenville,1,0,50,0,0,2,0,0,CU - Thank You
+11/10/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Brownfield,1,0,0,0,0,1,1,0,HS - Thank You
+11/10/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Old Orchard Beach,1,0,19,1,0,1,0,194,HS - Thank You
+11/12/2017,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),Maharashtra,Thane,1,1,0,1,1,1,1,0,NA
+11/12/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Lewiston,1,0,59,0,0,1,0,0,CU - Thank You
+11/14/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Scarborough,2,0,7,0,0,2,1,0,HS - Thank You
+11/15/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Central Development Region,(not set),1,0,45,0,0,1,0,0,HS - Thank You
+11/15/2017,/welcome-transfer-students/thank-you,Spotify,Display,640x640,FY2018_Umbrella,Maine,Saco,1,0,39,0,0,3,1,0,CU - Thank You
+11/16/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Auburn,1,0,14,0,0,1,0,0,HS - Thank You
+11/16/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,New Hampshire,Bow,1,0,11,0,0,1,0,0,HS - Thank You
+11/16/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Rumford,1,0,15,0,0,1,0,0,HS - Thank You
+11/17/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Augusta,1,0,19,0,0,1,0,0,CU - Thank You
+11/18/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Machias,1,0,18,0,0,1,0,0,CU - Thank You
+11/19/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Sanford,1,0,16,0,0,1,0,0,HS - Thank You
+11/19/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Boston,1,0,30,0,0,1,0,0,CU - Thank You
+11/21/2017,/welcome-transfer-students/thank-you,google,cpc,General,FY2018_Transfer,Maine,South Portland,1,0,88,0,0,1,0,0,CU - Thank You
+11/22/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Pennsylvania,State College,1,0,26,0,0,1,0,0,HS - Thank You
+11/23/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Montana,Billings,1,0,13,0,0,1,0,0,GR - Thank You
+11/24/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Connecticut,Redding,1,0,15,0,0,1,0,0,HS - Thank You
+11/26/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Central Region,Kampala,1,0,0,0,0,1,1,0,HS - Thank You
+11/26/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New Hampshire,Goffstown,1,0,19,0,0,1,0,0,CU - Thank You
+11/28/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Yarmouth,1,0,55,0,0,1,0,0,GR - Thank You
+11/30/2017,/discover/thank-you,(direct),(none),(not set),(not set),Maine,Bangor,1,1,0,1,1,1,1,0,NA
+11/30/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Virginia,Virginia Beach,1,0,21,0,0,1,0,0,CU - Thank You
+12/01/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Searsport,1,0,719,0,0,2,0,0,HS - Thank You
+12/02/2017,/welcome-high-school-students/thank-you,Instagram,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Virginia,Woodbridge,1,0,29,0,0,1,0,0,HS - Thank You
+12/02/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Waterville,1,0,8,0,0,1,0,0,CU - Thank You
+12/03/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Hollis,1,0,27,0,0,1,0,0,HS - Thank You
+12/04/2017,/welcome-graduate-degree-seekers/thank-you,DBM,Display,Veronica_V1,FY2018_Umbrella,Maine,Orono,1,0,0,0,0,1,1,0,GR - Thank You
+12/04/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Washington,Seattle,1,0,144,0,0,4,0,0,HS - Thank You
+12/04/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Readfield,1,0,49,0,0,1,0,0,OL - Thank You
+12/06/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Salem,1,0,0,0,0,1,1,0,CU - Thank You
+12/07/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,Graduate Degree Programs,FY2018_Graduate,North Carolina,Greenville,1,0,23,0,0,1,0,0,GR - Thank You
+12/07/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Bangor,1,0,24,0,0,1,0,0,GR - Thank You
+12/08/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Uttar Pradesh,Agra,1,0,0,0,0,1,1,0,HS - Thank You
+12/08/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Jonesport,1,0,18,0,0,1,0,0,CU - Thank You
+12/10/2017,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,New Hampshire,Hudson,1,0,12,0,0,2,0,0,CU - Thank You
+12/11/2017,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,New Hampshire,Berlin,1,0,15,0,0,1,0,0,OL - Thank You
+12/12/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,Univ. of Southern Maine,FY2018_Graduate,California,Fontana,1,0,19,0,0,2,0,0,GR - Thank You
+12/12/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Massachusetts,Newton,1,0,13,0,0,1,0,0,HS - Thank You
+12/14/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Wakefield,1,0,0,0,0,1,1,0,HS - Thank You
+12/15/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Portland,1,0,31,0,0,1,0,0,GR - Thank You
+12/17/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Freeport,1,0,17,0,0,1,0,0,HS - Thank You
+12/17/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,North Carolina,Wake Forest,1,0,7,0,0,2,0,0,CU - Thank You
+12/18/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Central Development Region,Kathmandu,1,0,0,0,0,1,1,0,HS - Thank You
+12/18/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,New Hampshire,Keene,1,0,46,0,0,1,0,0,HS - Thank You
+12/18/2017,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Illinois,Chicago,1,0,0,0,0,1,1,0,HS - Thank You
+12/19/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Gorham,1,0,35,0,0,1,0,0,CU - Thank You
+12/21/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Scarborough,1,0,11,0,0,1,0,0,GR - Thank You
+12/22/2017,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,Maine,Augusta,1,0,20,0,0,1,0,0,CU - Thank You
+12/22/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Illinois,Granite City,1,0,10,0,0,1,0,0,CU - Thank You
+12/23/2017,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,New York,Manlius,1,0,0,0,0,1,1,0,GR - Thank You
+12/27/2017,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Pennsylvania,Kennett Square,1,0,17,0,0,1,0,0,HS - Thank You
+12/27/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Brunswick,1,0,10,0,0,1,0,0,CU - Thank You
+12/29/2017,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Istanbul,Istanbul,1,0,0,0,0,1,1,0,CU - Thank You
+12/30/2017,/welcome-transfer-students/thank-you,google,cpc,Earn Your Degree in Maine,FY2018_Transfer,Maine,Presque Isle,1,0,0,0,0,1,1,0,CU - Thank You
+01/03/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,South Portland,1,0,12,0,0,1,0,0,CU - Thank You
+01/04/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Lusaka Province,Lusaka,1,0,50,0,0,1,0,0,CU - Thank You
+01/04/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Pennsylvania,Bloomsburg,1,0,0,0,0,1,1,0,CU - Thank You
+01/08/2018,/welcome-degree-completion-seekers/thank-you,DBM,Display,Nate_V1,FY2018_Umbrella,Maine,Waterville,1,0,12,0,0,1,0,0,DC - Thank You
+01/08/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Scarborough,1,0,79,0,0,1,0,0,GR - Thank You
+01/08/2018,/welcome-high-school-students/thank-you,(direct),(none),(not set),(not set),(not set),Addis Ababa,1,0,43,1,1,2,1,276,HS - Thank You
+01/08/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Windham,1,0,18,0,0,1,0,0,HS - Thank You
+01/08/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,California,Los Angeles,1,0,75,0,0,1,0,0,CU - Thank You
+01/08/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Ohio,Rocky River,1,0,138,0,0,1,0,0,CU - Thank You
+01/09/2018,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Winslow,1,0,25,0,0,1,0,0,OL - Thank You
+01/10/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Augusta,1,0,0,0,0,1,1,0,HS - Thank You
+01/11/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Illinois,Chicago,1,1,0,1,0,1,1,0,HS - Thank You
+01/12/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Illinois,Chicago,1,1,0,1,0,1,1,0,HS - Thank You
+01/13/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Illinois,Chicago,1,1,0,1,0,1,1,0,HS - Thank You
+01/14/2018,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Presque Isle,1,0,32,0,0,1,0,0,HS - Thank You
+01/16/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Vermont,Saint Albans City,1,0,37,0,0,1,0,0,CU - Thank You
+01/16/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Massachusetts,Dedham,1,0,0,0,0,1,1,0,CU - Thank You
+01/17/2018,/welcome-degree-completion-seekers/thank-you,google,organic,(not set),(not set),Maine,Biddeford,1,0,14,0,0,1,0,0,DC - Thank You
+01/18/2018,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Machias,1,0,39,0,0,1,0,0,HS - Thank You
+01/18/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,Windham,1,0,18,0,0,1,0,0,HS - Thank You
+01/19/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Lewiston,1,0,11,0,0,1,0,0,GR - Thank You
+01/19/2018,/welcome-transfer-students/thank-you,google,cpc,Earn Your Degree in Maine,FY2018_Transfer,Maine,Rumford,1,0,55,0,0,1,0,0,CU - Thank You
+01/19/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Taunton,1,0,2,0,0,2,1,0,CU - Thank You
+01/20/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Madhya Pradesh,Jabalpur,1,0,8,0,0,1,0,0,HS - Thank You
+01/22/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Maine,Bangor,1,0,18,0,0,1,0,0,HS - Thank You
+01/23/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Lagos,Lagos,1,0,245,0,0,1,0,0,CU - Thank You
+01/24/2018,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,China,1,0,0,0,0,1,1,0,OL - Thank You
+01/24/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Auburn,1,0,0,0,0,1,1,0,CU - Thank You
+01/24/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Massachusetts,Athol,1,0,65,0,0,1,0,0,CU - Thank You
+01/29/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Brunswick,1,0,0,0,0,1,1,0,GR - Thank You
+01/29/2018,/welcome-high-school-students/thank-you,DBM,Display,Veronica_V1,FY2018_Umbrella,Maine,Falmouth,1,0,0,0,0,1,1,0,HS - Thank You
+01/30/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,(not set),(not set),1,0,0,0,0,1,1,0,DC - Thank You
+01/30/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Lewiston,1,0,0,0,0,1,1,0,DC - Thank You
+01/31/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Winthrop,1,0,0,0,0,1,1,0,DC - Thank You
+01/31/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,{KeyWord:University of Southern Maine},FY2018_Graduate,Balochistan,(not set),1,0,735,0,0,1,0,0,GR - Thank You
+01/31/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Central Region,Kampala,1,0,0,0,0,1,1,0,CU - Thank You
+02/01/2018,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,(not set),(not set),1,0,170,0,0,1,0,0,CU - Thank You
+02/03/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Saco,1,0,0,0,0,1,1,0,DC - Thank You
+02/03/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Scarborough,1,0,0,0,0,1,1,0,DC - Thank You
+02/03/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,Graduate Degree Programs,FY2018_Graduate,New York,East Rochester,1,0,40,0,0,3,0,0,GR - Thank You
+02/03/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,(not set),(not set),1,0,0,0,0,1,1,0,CU - Thank You
+02/07/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Sanford,1,0,13,0,0,1,0,0,CU - Thank You
+02/08/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Ogunquit,1,0,15,0,0,1,0,0,DC - Thank You
+02/08/2018,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Lewiston,1,0,0,0,0,1,1,0,HS - Thank You
+02/08/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,State of Mexico,Tlalnepantla de Baz,1,0,17,0,0,1,0,0,CU - Thank You
+02/08/2018,/welcome-transfer-students/thank-you,google,organic,(not set),(not set),Mexico City,Mexico City,1,1,0,1,0,1,1,0,CU - Thank You
+02/09/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Lagrange,1,0,16,0,0,1,0,0,DC - Thank You
+02/10/2018,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,Connecticut,Coventry,1,0,0,0,0,1,1,0,CU - Thank You
+02/11/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Bethel,1,0,0,0,0,1,1,0,DC - Thank You
+02/11/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Waterville,1,0,0,0,0,1,1,0,CU - Thank You
+02/13/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Lewiston,1,0,0,0,0,1,1,0,DC - Thank You
+02/13/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Amman Governorate,(not set),1,0,0,0,0,1,1,0,CU - Thank You
+02/14/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Portland,1,0,0,0,0,1,1,0,DC - Thank You
+02/14/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Massachusetts,Boston,1,0,0,0,0,1,1,0,HS - Thank You
+02/15/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Gorham,1,0,17,0,0,1,0,0,DC - Thank You
+02/15/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Gray,1,0,55,0,0,1,0,0,GR - Thank You
+02/17/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Florida,Tampa,1,0,0,0,0,1,1,0,HS - Thank You
+02/17/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,New York,Syracuse,1,0,0,0,0,1,1,0,HS - Thank You
+02/21/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,{KeyWord:Master's Degree Program},FY2018_Graduate,State of Rio Grande do Sul,Porto Alegre,1,0,30,0,0,1,0,0,GR - Thank You
+02/22/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Oklahoma,Oklahoma City,1,0,195,0,0,1,0,0,CU - Thank You
+02/23/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,New Hampshire,Berlin,1,0,19,0,0,1,0,0,DC - Thank You
+02/26/2018,/honors/thank-you-dara-jeanne-kaufman-fund,(direct),(none),(not set),(not set),Florida,Boynton Beach,1,0,62,1,1,2,1,62,NA
+02/26/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Maine,South Portland,1,0,19,0,0,1,0,0,HS - Thank You
+02/26/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,Massachusetts,Boston,2,0,42,1,0,2,1,42,HS - Thank You
+02/28/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Raymond,1,0,62,0,0,1,0,0,CU - Thank You
+03/01/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Wisconsin,La Crosse,1,0,8,0,0,1,0,0,HS - Thank You
+03/02/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Maine,Farmington,1,0,9,0,0,1,0,0,GR - Thank You
+03/03/2018,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,Maine,Waterville,1,0,0,0,0,1,1,0,OL - Thank You
+03/04/2018,/welcome-high-school-students/thank-you,DBM,Display,Elliot,FY2018_Umbrella,Maine,Portland,1,0,93,0,0,1,0,0,HS - Thank You
+03/04/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Erbil Governorate,(not set),1,0,16,0,0,1,0,0,CU - Thank You
+03/05/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Central Region,Kampala,1,0,53,0,0,1,0,0,HS - Thank You
+03/05/2018,/welcome-transfer-students/thank-you,google,cpc,Earn Your Maine College Degree,FY2018_Transfer,Kigali City,Kigali,1,0,0,0,0,1,1,0,CU - Thank You
+03/05/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Nairobi County,Nairobi,1,0,60,0,0,1,0,0,CU - Thank You
+03/06/2018,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),Arizona,Sedona,1,0,0,0,0,1,1,0,NA
+03/07/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,New Hampshire,Raymond,1,0,14,0,0,1,0,0,HS - Thank You
+03/11/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,Massachusetts,Boston,1,0,0,0,0,1,1,0,HS - Thank You
+03/11/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,(not set),Casablanca,1,0,0,0,0,1,1,0,CU - Thank You
+03/12/2018,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Searsport,1,0,0,0,0,1,1,0,HS - Thank You
+03/12/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer Your Credits,FY2018_Transfer,Maine,Sanford,1,0,37,0,0,1,0,0,CU - Thank You
+03/14/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,New York,New York,1,0,0,0,0,1,1,0,CU - Thank You
+03/16/2018,/here/thank-you,(direct),(none),(not set),(not set),New York,New York,1,0,21,0,0,1,0,0,NA
+03/16/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Kennebunk,1,0,0,0,0,1,1,0,CU - Thank You
+03/17/2018,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_RT_HS,FY2018_Undergrad,Maine,Rockland,1,0,0,0,0,1,1,0,HS - Thank You
+03/19/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Portland,1,0,0,0,0,1,1,0,DC - Thank You
+03/19/2018,/welcome-high-school-students/thank-you,DBM,Display,Kusow,FY2018_Umbrella,Maine,Lewiston,1,0,75,0,0,1,0,0,HS - Thank You
+03/20/2018,/welcome-high-school-students/thank-you,(direct),(none),(not set),(not set),Vermont,Rutland,1,0,0,0,0,1,1,0,HS - Thank You
+03/20/2018,/welcome-high-school-students/thank-you,google,cpc,Undergraduate Degree Programs,FY2018_Undergrad,New Jersey,Newark,1,0,24,0,0,1,0,0,HS - Thank You
+03/20/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Mid-Western Development Region,(not set),1,0,0,0,0,1,1,0,CU - Thank You
+03/20/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,State of Rio de Janeiro,Rio de Janeiro,1,0,0,0,0,1,1,0,CU - Thank You
+03/21/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,Portland,1,0,0,0,0,1,1,0,DC - Thank You
+03/21/2018,/welcome-graduate-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Graduate,Hawaii,Hilo,1,0,140,0,0,2,0,0,GR - Thank You
+03/21/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Hermon,1,0,248,0,0,1,0,0,CU - Thank You
+03/23/2018,/welcome-online-degree-seekers/thank-you,google,cpc,University of Southern Maine,FY2018_Online,New Hampshire,Barrington,1,0,0,0,0,1,1,0,OL - Thank You
+03/25/2018,/welcome-high-school-students/thank-you,google,cpc,{KeyWord:Earn Your Bachelor's Degree},FY2018_Undergrad,New Hampshire,Nashua,1,0,38,0,0,1,0,0,HS - Thank You
+03/26/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Nevada,(not set),1,0,25,0,0,2,0,0,CU - Thank You
+03/27/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,York,1,0,0,0,0,1,1,0,DC - Thank You
+03/28/2018,/welcome-degree-completion-seekers/thank-you,LinkedIn,PageLink,WA,FY2018_Degree_Completion,Maine,York,1,0,0,0,0,1,1,0,DC - Thank You
+03/29/2018,/welcome-high-school-students/thank-you,Facebook,PageLink,Undergrad_ME_HS,FY2018_Undergrad,Maine,Lewiston,1,0,0,0,0,1,1,0,HS - Thank You
+03/29/2018,/welcome-transfer-students/thank-you,google,cpc,Transfer College,FY2018_Transfer,Maine,Orono,1,0,23,0,0,1,0,0,CU - Thank You
+03/31/2018,/honors/thank-you-dara-jeanne-kaufman-fund,google,organic,(not set),(not set),New York,New York,1,1,0,1,1,1,1,0,NA

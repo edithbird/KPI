@@ -1,0 +1,602 @@
+Student Type,Primary State Code,Age,Initial Source Date,Initial Referral Source,Referral Source Values: Referral Source Values Name,Anticipated Start Year,Student Stage
+Transfer,ME,,9/8/2018,MDCF19,MDCF19,2019,Inquiry
+Transfer,ME,,9/21/2018,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,10/1/2018,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,10/3/2018,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,10/18/2018,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,10/27/2018,MDCF19,MDCF19,2019,Inquiry
+Transfer,ME,,10/30/2018,MDCF19,MDCF19,2019,Inquiry
+Transfer,ME,,11/13/2018,MDCF19,MDCF19,2019,Inquiry
+Transfer,ME,,1/3/2019,MDCF19,MDCF19,2019,Inquiry
+Transfer,ME,,1/7/2019,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,1/15/2019,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,1/28/2019,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,NH,,1/29/2019,MDCF19,MDCF19,2019,Inquiry
+Transfer,ME,,2/17/2019,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,ME,,2/20/2019,MDCF19,MDCF19,2019,Inquiry
+Transfer,NH,,2/23/2019,MDCF19,MDCF19,2019,Inquiry
+First-Year Student,MO,,4/17/2019,MDCF19,MDCF19,2019,Inquiry
+Graduate,ME,,9/3/2018,MGRF19,AGOP,2019,Inquiry
+Graduate,UT,27,11/2/2018,MGRF19,APPL,2019,Applicant
+Graduate,ME,25,11/23/2018,MGRF19,APPL,2019,Applicant
+Graduate,ME,42,1/5/2019,MGRF19,APPL,2019,Applicant
+Graduate,ME,22,1/24/2019,MGRF19,APPL,2019,Applicant
+Graduate,ME,,9/3/2018,MGRF19,GNDGRINQ,2019,Inquiry
+Graduate,ME,,1/21/2019,MGRF19,GUSMUSTD,2019,Inquiry
+Graduate,ME,25,8/16/2018,MGRF19,GUSMUSTD,2019,Applicant
+Graduate,ME,,1/2/2019,MGRF19,IGRD,2019,Inquiry
+Graduate,ME,,1/21/2019,MGRF19,IGRD,2019,Inquiry
+Graduate,ME,,2/14/2019,MGRF19,IGRD,2019,Inquiry
+Graduate,ME,25,11/23/2018,MGRF19,IGRD,2019,Applicant
+Graduate,ME,,8/1/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,VA,,8/21/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,8/30/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,9/3/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,9/5/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,9/14/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,FL,,9/16/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,TN,,9/16/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,9/27/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,NY,,10/15/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,NH,,10/19/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,10/21/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,10/21/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,10/25/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,11/7/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,11/27/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,11/30/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,NY,,12/9/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/11/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,12/13/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,12/14/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/17/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,NY,,12/17/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/18/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/19/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,12/21/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/21/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,PA,,12/22/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,MA,,12/24/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,NH,,12/24/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,NH,,12/26/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/27/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/28/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,12/29/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,12/31/2018,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,1/1/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/2/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,1/2/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/4/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/4/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/4/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/4/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/4/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/7/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/7/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/12/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/15/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/25/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/17/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/17/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,1/18/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/21/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/23/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,1/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,1/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,1/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/1/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/3/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,CT,,2/5/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,LA,,2/5/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/7/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,2/12/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/12/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,NH,,2/13/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,NY,,2/14/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/14/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,2/18/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/19/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,2/19/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,RI,,2/21/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,MD,,2/25/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/1/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/2/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/4/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/5/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/6/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,MA,,3/6/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/7/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/7/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,3/8/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/9/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/11/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/11/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/13/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,3/20/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/21/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/21/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/22/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,TX,,3/28/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,RI,,3/28/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/14/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,3/29/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,,,4/1/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/3/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/10/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/13/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/16/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/16/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/16/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/17/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/17/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/18/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/18/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,NH,,4/19/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/19/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,,4/22/2019,MGRF19,MGRF19,2019,Inquiry
+Graduate,ME,25,8/16/2018,MGRF19,MGRF19,2019,Applicant
+Graduate,UT,27,11/2/2018,MGRF19,MGRF19,2019,Applicant
+Graduate,ME,25,11/23/2018,MGRF19,MGRF19,2019,Applicant
+Graduate,ME,42,1/5/2019,MGRF19,MGRF19,2019,Applicant
+Graduate,ME,22,1/24/2019,MGRF19,MGRF19,2019,Applicant
+Transfer,ME,61,11/3/2018,MHSF19,APPL,2019,Applicant
+First-Year Student,NH,18,12/16/2018,MHSF19,APPL,2019,Applicant
+First-Year Student,MD,18,12/16/2018,MHSF19,APPL,2019,Applicant
+First-Year Student,ME,39,12/20/2018,MHSF19,APPL,2019,Applicant
+Transfer,ME,39,12/27/2018,MHSF19,APPL,2019,Applicant
+Transfer,ME,33,1/1/2019,MHSF19,APPL,2019,Applicant
+First-Year Student,NY,17,2/10/2019,MHSF19,APPL,2019,Applicant
+First-Year Student,NH,17,3/29/2019,MHSF19,APPL,2019,Applicant
+Transfer,ME,28,4/7/2019,MHSF19,APPL,2019,Applicant
+First-Year Student,MD,18,12/16/2018,MHSF19,ASDS,2019,Applicant
+First-Year Student,NH,18,12/16/2018,MHSF19,CPPX,2019,Applicant
+First-Year Student,,18,12/22/2018,MHSF19,JPD,2019,Inquiry
+First-Year Student,,20,4/13/2019,MHSF19,JPD,2019,Inquiry
+First-Year Student,,,8/15/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,PA,,8/18/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,8/18/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,8/22/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,8/24/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,8/7/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,8/14/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,8/30/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,8/30/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NJ,,8/31/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,9/2/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,9/5/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,9/5/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,9/5/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,9/6/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,9/7/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,9/8/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,9/10/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,9/10/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,9/18/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,9/24/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,9/27/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,PA,,10/6/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,10/9/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,CT,,10/14/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MI,,10/22/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,10/24/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,10/29/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,CT,,10/30/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,10/31/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,11/14/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,11/18/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,11/18/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/8/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/11/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/12/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/12/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/15/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/17/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/17/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,12/18/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,LA,,12/20/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/20/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/21/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,12/21/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,18,12/22/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,12/22/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,FL,,12/25/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/26/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/26/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,12/26/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/31/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,12/31/2018,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/4/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/6/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,DC,,1/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,CT,,1/9/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/10/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NJ,,1/12/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,1/16/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/16/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/16/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,1/16/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/25/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/26/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/26/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,1/27/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,1/27/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,1/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,1/19/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/20/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,IA,,1/20/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/21/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/21/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,GA,,1/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/23/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/24/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,1/27/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/28/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,1/28/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,WI,,1/28/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/28/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/29/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,1/29/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,1/31/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,2/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MD,,2/3/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/3/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/4/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,2/5/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/6/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MN,,2/7/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,2/7/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/9/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/9/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,2/9/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/10/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,2/10/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,2/11/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/11/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/15/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MP,,2/16/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/16/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MD,,2/18/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/19/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/21/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ND,,2/21/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,2/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,WI,,2/23/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,VA,,2/25/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/25/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,2/25/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,2/26/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,3/2/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,3/3/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NH,,3/4/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,3/7/2019,MHSF19,MHSF19,2019,Inquiry
+Transfer,ME,30,3/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/11/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,3/12/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/12/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/13/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,,3/13/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,VA,,3/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/19/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,3/21/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,55,3/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/23/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/24/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/28/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/28/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,3/29/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,3/29/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NH,,3/30/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,22,3/30/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,LA,,4/1/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/2/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/2/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/3/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/3/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/3/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/4/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/6/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/6/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/6/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/7/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/7/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/8/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NH,,4/9/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/10/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/10/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/11/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/12/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/12/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,PA,,4/12/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,20,4/13/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NY,,4/13/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/13/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,NH,,4/13/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/14/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/17/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,,4/18/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,,,4/22/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,MA,20,3/26/2019,MHSF19,MHSF19,2019,Inquiry
+First-Year Student,ME,19,12/29/2018,MHSF19,MHSF19,2019,Inquiry
+Transfer,ME,61,11/3/2018,MHSF19,MHSF19,2019,Applicant
+First-Year Student,NH,18,12/16/2018,MHSF19,MHSF19,2019,Applicant
+First-Year Student,MD,18,12/16/2018,MHSF19,MHSF19,2019,Applicant
+First-Year Student,ME,39,12/20/2018,MHSF19,MHSF19,2019,Applicant
+Transfer,ME,39,12/27/2018,MHSF19,MHSF19,2019,Applicant
+Transfer,ME,33,1/1/2019,MHSF19,MHSF19,2019,Applicant
+First-Year Student,NY,17,2/10/2019,MHSF19,MHSF19,2019,Applicant
+First-Year Student,NH,17,3/29/2019,MHSF19,MHSF19,2019,Applicant
+Transfer,ME,28,4/7/2019,MHSF19,MHSF19,2019,Applicant
+Transfer,ME,30,3/8/2019,MHSF19,TCEU,2019,Inquiry
+First-Year Student,MD,18,12/16/2018,MHSF19,TOUR,2019,Applicant
+Transfer,ME,30,3/8/2019,MHSF19,WEB,2019,Inquiry
+First-Year Student,ME,55,3/22/2019,MHSF19,WEB,2019,Inquiry
+First-Year Student,,22,3/30/2019,MHSF19,WEB,2019,Inquiry
+Transfer,ME,21,1/14/2019,MOLF19,APPL,2019,Inquiry
+Transfer,ME,43,3/3/2019,MOLF19,APPL,2019,Inquiry
+Transfer,ME,21,1/3/2019,MOLF19,APPL,2019,Applicant
+First-Year Student,ME,44,1/15/2019,MOLF19,APPL,2019,Applicant
+First-Year Student,ME,29,4/3/2019,MOLF19,APPL,2019,Applicant
+First-Year Student,ME,33,4/21/2019,MOLF19,APPL,2019,Applicant
+First-Year Student,ME,33,4/21/2019,MOLF19,APPL,2019,Applicant
+First-Year Student,ME,29,4/3/2019,MOLF19,ASD,2019,Applicant
+First-Year Student,ME,29,4/3/2019,MOLF19,ASD,2019,Applicant
+Transfer,ME,23,1/8/2019,MOLF19,CANT,2019,Inquiry
+First-Year Student,ME,29,4/3/2019,MOLF19,CANT,2019,Applicant
+First-Year Student,ME,29,4/3/2019,MOLF19,CANT,2019,Applicant
+Graduate,ME,,4/3/2019,MOLF19,GUSMUSTD,2019,Inquiry
+Transfer,NY,,8/7/2018,MOLF19,M17HSSN3,2019,Inquiry
+Transfer,NY,,8/7/2018,MOLF19,MDCF19,2019,Inquiry
+Transfer,NY,,8/7/2018,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,9/14/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,9/23/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,10/5/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,ME,,10/11/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,10/18/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,VT,,10/19/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,10/23/2018,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,10/25/2018,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,11/17/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,MA,,12/1/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,NH,,12/1/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,,,12/5/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,MA,,12/6/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,12/15/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,ME,,12/19/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,12/23/2018,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,12/23/2018,MOLF19,MOLF19,2019,Inquiry
+Transfer,MN,,12/26/2018,MOLF19,MOLF19,2019,Inquiry
+Graduate,FL,,12/27/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,12/30/2018,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,1/1/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,1/2/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,1/7/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,1/8/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,1/8/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,23,1/8/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,21,1/14/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,1/16/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,NH,,1/17/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,1/22/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,1/23/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,1/24/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,1/24/2019,MOLF19,MOLF19,2019,Inquiry
+Graduate,ME,,2/2/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,2/3/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,2/15/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,UT,,2/21/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,2/23/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,2/23/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,2/25/2019,MOLF19,MOLF19,2019,Inquiry
+Graduate,ME,,3/2/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,43,3/3/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,3/13/2019,MOLF19,MOLF19,2019,Inquiry
+Graduate,FL,,3/17/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,3/24/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,OH,,3/28/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,23,4/1/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,NH,,4/1/2019,MOLF19,MOLF19,2019,Inquiry
+Graduate,ME,,4/3/2019,MOLF19,MOLF19,2019,Inquiry
+Graduate,CO,,4/3/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,4/8/2019,MOLF19,MOLF19,2019,Inquiry
+Graduate,ME,27,4/15/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,4/18/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,4/19/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,,4/21/2019,MOLF19,MOLF19,2019,Inquiry
+First-Year Student,ME,,4/22/2019,MOLF19,MOLF19,2019,Inquiry
+Transfer,ME,27,12/19/2018,MOLF19,MOLF19,2019,Applicant
+Transfer,ME,21,1/3/2019,MOLF19,MOLF19,2019,Applicant
+First-Year Student,ME,44,1/15/2019,MOLF19,MOLF19,2019,Applicant
+First-Year Student,ME,29,4/3/2019,MOLF19,MOLF19,2019,Applicant
+First-Year Student,ME,33,4/21/2019,MOLF19,MOLF19,2019,Applicant
+Transfer,ME,27,12/19/2018,MOLF19,NENM,2019,Applicant
+Transfer,ME,23,4/1/2019,MOLF19,OPEN,2019,Inquiry
+Transfer,ME,43,3/3/2019,MOLF19,PHONE,2019,Inquiry
+Transfer,ME,23,4/1/2019,MOLF19,TOUR,2019,Inquiry
+Transfer,ME,21,1/3/2019,MOLF19,WALKIN,2019,Applicant
+Graduate,ME,27,4/15/2019,MOLF19,WEB,2019,Inquiry
+Transfer,ME,23,1/8/2019,MOLF19,WEBO,2019,Inquiry
+Transfer,ME,24,4/11/2019,MTRF19,APPL,2019,Inquiry
+Transfer,ME,21,4/16/2019,MTRF19,APPL,2019,Inquiry
+Transfer,ME,19,11/17/2018,MTRF19,APPL,2019,Applicant
+Transfer,ME,30,12/26/2018,MTRF19,APPL,2019,Applicant
+Transfer,OH,21,1/2/2019,MTRF19,APPL,2019,Applicant
+Transfer,ME,22,1/31/2019,MTRF19,APPL,2019,Applicant
+Transfer,ME,21,2/25/2019,MTRF19,APPL,2019,Applicant
+Transfer,NH,18,3/7/2019,MTRF19,APPL,2019,Applicant
+Transfer,ME,21,4/16/2019,MTRF19,CANS,2019,Inquiry
+Transfer,ME,,2/22/2019,MTRF19,EMAIL,2019,Inquiry
+Transfer,ME,21,2/25/2019,MTRF19,GOPN,2019,Applicant
+Transfer,,25,3/27/2019,MTRF19,JPD,2019,Inquiry
+First-Year Student,IA,,1/14/2019,MTRF19,MHSF19,2019,Inquiry
+Transfer,ME,18,3/25/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,19,11/11/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,18,1/8/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,8/19/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,8/22/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,NY,,8/7/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,8/12/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,8/26/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,8/28/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,8/31/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,CT,,9/2/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,VA,,9/3/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,9/8/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,9/17/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,10/10/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,NJ,,10/12/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,10/13/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,NH,,10/20/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,10/22/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,11/2/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,MA,,11/3/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,MA,,11/20/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,TX,,11/22/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,MA,,11/27/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,VT,,12/3/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/8/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,PA,,12/8/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/12/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/12/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,12/14/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,MN,,12/16/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,12/18/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/19/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/20/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/20/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,NH,,12/20/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/24/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/28/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,12/30/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,12/30/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,12/30/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,12/30/2018,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/1/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/3/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,CA,,1/3/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/4/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/4/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/4/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/5/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/6/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/6/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/6/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/7/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/9/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/10/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/13/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/13/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/14/2019,MTRF19,MTRF19,2019,Inquiry
+First-Year Student,IA,,1/14/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/16/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,IL,,1/26/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/27/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/27/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/27/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/17/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/17/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/18/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/21/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,LA,,1/24/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/24/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,IN,,1/28/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,1/28/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/28/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,1/29/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,2/3/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/4/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/5/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,RI,,2/5/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/6/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,NH,,2/7/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,2/10/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,AR,,2/11/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,2/11/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/12/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/14/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,NY,,2/17/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,WV,,2/21/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,2/22/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,2/22/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/22/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,2/23/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/24/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/24/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,NY,,2/24/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,2/28/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,OR,,3/2/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/2/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,3/3/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,VT,,3/3/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/5/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/9/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,3/16/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/16/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/19/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/19/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,3/25/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,25,3/27/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/28/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,3/29/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,4/1/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,CT,,4/1/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,37,4/2/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,4/4/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,,4/8/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,24,4/11/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,DE,,4/15/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,21,4/16/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ND,,4/16/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,GU,,4/18/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,4/18/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,,,4/20/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,NH,,4/22/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,TX,,4/22/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,MD,,4/23/2019,MTRF19,MTRF19,2019,Inquiry
+Transfer,ME,19,11/17/2018,MTRF19,MTRF19,2019,Applicant
+Transfer,ME,30,12/26/2018,MTRF19,MTRF19,2019,Applicant
+Transfer,OH,21,1/2/2019,MTRF19,MTRF19,2019,Applicant
+Transfer,ME,22,1/31/2019,MTRF19,MTRF19,2019,Applicant
+Transfer,,21,2/1/2019,MTRF19,MTRF19,2019,Applicant
+Transfer,ME,21,2/25/2019,MTRF19,MTRF19,2019,Applicant
+Transfer,NH,18,3/7/2019,MTRF19,MTRF19,2019,Applicant
+Transfer,ME,24,4/11/2019,MTRF19,PORT,2019,Inquiry
+Transfer,ME,19,11/17/2018,MTRF19,TOUR,2019,Applicant
+Transfer,,21,2/1/2019,MTRF19,UNKN,2019,Applicant
+Transfer,ME,37,4/2/2019,MTRF19,WEB,2019,Inquiry
+,,,,,,,
+,,,,,,,
+ChrisMarketingForms,,,,,,,
+"Copyright (c) 2000-2019 salesforce.com, inc. All rights reserved.",,,,,,,
+Confidential Information - Do Not Distribute,,,,,,,
+Generated By:  Christine Iyer  4/23/2019 11:05 AM,,,,,,,
+University of Southern Maine,,,,,,,

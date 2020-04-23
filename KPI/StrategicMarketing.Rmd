@@ -1,0 +1,295 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# library(knitr)
+# #library(ggplot2)
+# knitr::opts_chunk$set(echo = FALSE)
+# knitr::opts_knit$set(root.dir= normalizePath('..'))
+# knitr::opts_chunk$set(error = FALSE)
+
+```
+
+
+
+---
+title: "Performance of Marketing Measures to Support Recruitment"
+author: "Christine Iyer"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+    output: bookdown::pdf_document2
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+bibliography: skeleton.bib
+link-citations: yes
+---
+
+
+```{r}
+#install.packages('tufte')
+```
+
+```{r setup, include=FALSE}
+#library(tufte)
+# invalidate cache when the tufte version changes
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE,
+	cache.extra = packageVersion("tufte"),
+	tidy = FALSE
+)
+options(htmltools.dir.version = FALSE)
+```
+
+
+<img src="logo.png" style="position:absolute;top:0px;right:0px;" height=100px width = 100px />
+
+```{r}
+library(tufte)
+library(janitor)
+library(knitr)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(ggthemes)
+library(zoo)
+library(lubridate)
+#<img src="logo.JPG" style="position:absolute;top:0px;right:0px; padding:1px;z-index:60;" />
+```
+
+
+
+```{r}
+RSP <- read.csv("file:///C:/Users/christine.iyer/Box/KPI/KPI/RSP.csv", header = T, stringsAsFactors = F)
+
+RSPBad <- RSP %>% mutate(
+  Month = month(as.POSIXct(Date,format = "%m/%d/%Y"))
+)
+
+
+
+RSP1 <- RSP %>% mutate(Date = as.Date(Date, format = "%m/%d/%Y" ), 
+                       source= ifelse(source == "DBM", source,
+                                     ifelse(source == "FB", "FB/IG", 
+                                            ifelse(source == "GOOGLE", source, 
+                                                   ifelse(source == "IG", "FB/IG", 
+                                                          ifelse(source == "(DIRECT)", "Direct", 
+                                                                 ifelse(source == "YAHOO", "GOOGLE", 
+                                                                        ifelse(source == "CM", "Marketing Email", 
+                                                                               ifelse(source == "TARGETX", "Marketing Email", "Other")))))))), Status = ifelse(Date<= "2019-02-28", "Out-of-Market 7/2017-2/2019", "In-Market 3/2019-present"))
+
+```
+
+## Spring '19 Travel Advertising Campaign
+
+```{r fig-margin, fig.margin=TRUE}
+
+colorPP <- c("#0E1033",  "#263D0A" , "#F6A704", "#CC0033","#D47E0A","#47198D")
+RES2 <-  RSP1 %>% mutate(Month = as.Date(cut(Date, breaks = "month"))) %>%
+    group_by(Month, source) %>% 
+    summarise(UPView = sum(uniquePageviews)) 
+
+# And make the plot
+ggplot(RES2, aes(x=Month, y=UPView)) +
+      geom_line(aes(color = source), size = 1.2) + 
+      scale_x_date(date_labels = "%b-%Y", date_breaks="1 month") + theme_bw() + theme(axis.text.x = element_text(angle = 90, hjust = 1))+ scale_color_manual(values = colorPP) + 
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+ 
+  theme(
+  axis.title.x = element_blank())
+```
+
+
+Marketing runs digital ads to support out-of-state recruitment coinciding with Admission's Spring Travel. This year, we decided to change our messaging to promote the RSP program; we directed students to the RSP page, https://usm.maine.edu/office-of-admissions/new-england-regional-tuition-program. 
+
+Until the launch of this advertising campaign, the RSP page got very little traffic. This can be seen in the table below and the plot to the right.
+
+```{r}
+kable(head(RSP1 %>% 
+             group_by(Status) %>% 
+             summarise(UPV = sum(uniquePageviews), 
+                       bounces = sum(bounces), 
+                       sessions = sum(sessions), 
+                       BounceRate = paste0(round(bounces/sessions * 100, 0), "%")) %>% 
+             select(Status, UPV, 	BounceRate	)))
+```
+
+
+
+
+
+
+
+Since the campaign launched, the RSP page sees 300-400 unique pageviews/week, the majority of which are driven by our digital ads.
+
+### Origin of RSP Page Traffic 
+
+```{r}
+
+
+RES3 <- RSP1 %>% 
+  mutate(Week = as.Date(cut(Date, breaks = "week")), Date = as.Date(Date, format = "%m/%d/%Y")) %>% group_by(Week, source) %>% 
+  filter(Date >= "2019-03-01")%>% 
+    summarise(UPView = sum(uniquePageviews)) 
+# And make the plot
+ggplot(RES3, aes(x=Week, y=UPView)) +
+      geom_line(aes(color = source), size = 1.2) + 
+      scale_x_date(date_labels = "%b-%Y", date_breaks="1 week") + theme_bw() + theme(axis.text.x = element_text(angle = 90, hjust = 1))+ scale_color_manual(values = colorPP) + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+ theme(
+  axis.title.x = element_blank())
+
+```
+
+
+
+
+
+
+
+    
+ 
+
+ 
+
+
+```{r}
+colorPP <- c("#0E1033", "#F6A704", "#CC0033", "pink", "blue", "orange")
+#ggplot(Inq3, aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorPP)
+```
+
+
+
+```{r include=FALSE}
+
+# Multiple line plot
+base_plot <- ggplot(RSP1, aes(x = Date, y = uniquePageviews)) +
+  geom_line(aes(color = source), size = 1) +
+  #scale_color_manual(values = c("#00AFBB", "#E7B800")) +
+  theme_minimal()
+
+
+
+base_plot +
+  scale_x_date(date_breaks = "1 years",
+               date_minor_breaks = "1 month") +
+  ggtitle("date_(minor_)breaks = \"x years\"")
+```
+
+
+```{r}
+Inq <- read.csv("file:///C:/Users/christine.iyer/Box/KPI/MarketingForms.csv", header = T, stringsAsFactors = F)
+
+Inq <- Inq %>% rename(
+  State = Primary.State.Code, 
+  Date = Initial.Source.Date, 
+  Initial.Source = Initial.Referral.Source, 
+  #Source2 = Referral.Source.Values..Referral.Source.Values.Name,
+  Start = Anticipated.Start.Year, 
+  Stage = Student.Stage)
+
+Inq <- Inq %>% clean_names(.,"screaming_snake")
+Inq <- Inq %>% mutate(DATE = as.POSIXct(DATE, format = "%m/%d/%Y"), FY = as.yearmon(DATE), AgeGiven = ifelse(BIRTHDATE == "", "No Age Given", "Age Given"), Quarter = paste0("Q", quarter(DATE, with_year = FALSE, fiscal_start = 7)))
+
+```
+
+
+```{r}
+Inq1 <- Inq %>% mutate(INITIAL_SOURCE_1 = ifelse(grepl("HS", INITIAL_SOURCE), "UG", ifelse(grepl("T", INITIAL_SOURCE), "TR", ifelse(grepl("DC", INITIAL_SOURCE), "DC", ifelse(grepl("OL", INITIAL_SOURCE), "OL", "GR")))), CampaignYR = ifelse(grepl("17", INITIAL_SOURCE), "FY17", ifelse(grepl("18", INITIAL_SOURCE),"FY18", "FY19")))
+
+
+Inq2 <- Inq1 %>% group_by( INITIAL_SOURCE_1, CampaignYR,Quarter) %>% summarise(Inquiries = n())
+Inq3 <- Inq1 %>% group_by(CampaignYR,Quarter) %>% summarise(Inquiries = n())
+
+
+Inq4 <- Inq2 %>% spread(Quarter, Inquiries)
+Inq5 <- Inq3 %>% spread(Quarter, Inquiries)
+```
+
+```{r}
+TY <- read.csv("file:///C:/Users/christine.iyer/Box/KPI/ThankYouSources.csv", header = T, stringsAsFactors = F)
+
+#TY %>% group_by(FY, Source) %>% summarise(Inquiries = sum(Inquiries))%>% spread(FY, Inquiries) %>% arrange(desc(FY19))
+
+TY <- TY %>% 
+  mutate(Source = ifelse(Source == "PPH", "Local Dig", 
+                               ifelse(Source == "SJ", "Local Dig", 
+                                      ifelse(Source == "Facebook", "FB/IG", 
+                                             ifelse(Source == "Instagram", "FB/IG", 
+                                                    ifelse(Source == "Pinterest", "PIN/SC", 
+                                                           ifelse(Source =="Snapchat", "PIN/SC", Source))))))) %>% 
+                group_by(FY, Source) %>% summarise(Inquiries = sum(Inquiries))%>% spread(FY, Inquiries) %>% arrange(desc(FY19))
+
+
+```
+
+---
+
+## Marketing Campaign Inquiries
+
+One of the KPIs we look at on a quarterly basis is **inquiries**, i.e., the number of forms completed on one of the five campaign landing pages created for advertising campaigns. The purpose of this report is to look in to the recent increase in inquiries. In FY19 Q1, due to a year over year decline in inquiries, we hypothesized that "Gen Z" was moving away from filling out forms; this prompted us to begin considering alternative ways to engage the demographic. However, we have noted a surge in completed forms in the past two quarters and are seeking to understand more about the who is making inquiries and when. 
+
+---
+
+
+## Findings
+
+**Historical Inquiry Forms**
+
+
+
+The table summarises the performance of the campaign as a whole over the past three years. `r margin_note("Please note that the numbers for FY19 Q4 are not final. There are 2 months remaining in the quarter.")` 
+
+```{r}
+kable(Inq5)
+```
+
+---
+
+
+Visualization at FY Level
+
+The following plot illustrates this quarterly historical comparison and the recent growth in FY19. 
+
+```{r fig.height=3, fig.width=6}
+colorP <- c("#0E1033", "#F6A704", "#CC0033")
+ggplot(Inq3, aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+```
+
+
+---
+
+```{r}
+tours <- read.csv("file:///C:/Users/christine.iyer/Box/KPI/KPI/tours3.csv", header = T, stringsAsFactors = F)
+
+# range(tours$date)
+# kable(head(tours))
+# kable(tail(tours))
+# unique(tours$source)
+
+tours <- tours %>% mutate(date = as.Date(date, format = "%m/%d/%Y" ),
+                          source = ifelse(source == "DBM", source,
+                                     ifelse(source == "FB/IG", "FB/IG/PIN",
+                                            ifelse(source == "GOOGLE", "Search",                                                    
+                                                   ifelse(source == "IG", "FB/IG/PIN",
+                                                          ifelse(source == "DIRECT", "Direct", 
+                                                                 ifelse(source == "YAHOO", "Search", 
+                                                                        ifelse(source == "BING", "Search",
+                                                                               ifelse(source == "CM", "Marketing Email",
+                                                                                      ifelse(source == "TARGETX", "Marketing Email",
+                                                                                             ifelse(source == "Pinterest", "FB/IG/PIN", "Other")))))))))))
+
+
+#tours %>% group_by(source) %>% summarise(UPV = sum(uniquePageviews)) %>% arrange(desc(UPV))
+
+#7/2017-2/2019
+#3/2019-present
+``` 
+
+
+

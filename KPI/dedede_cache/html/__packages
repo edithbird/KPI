@@ -1,0 +1,10 @@
+base
+tufte
+ggplot2
+janitor
+knitr
+dplyr
+tidyr
+ggthemes
+zoo
+lubridate

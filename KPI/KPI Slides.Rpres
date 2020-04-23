@@ -1,0 +1,58 @@
+KPI Slides
+========================================================
+author: 
+date: 
+autosize: true
+
+First Slide
+========================================================
+
+
+```{r}
+library(dplyr)
+library(knitr)
+library(ggplot2)
+```
+
+```{r}
+RSP <- read.csv("file:///C:/Users/christine.iyer/Box/KPI/KPI/RSP.csv", header = T, stringsAsFactors = F)
+RSP1 <- RSP %>% mutate(Date = as.Date(Date, format = "%m/%d/%Y"),
+  source= ifelse(source == "DBM", source,
+                                     ifelse(source == "FB", "FB/IG", 
+                                            ifelse(source == "GOOGLE", source, 
+                                                   ifelse(source == "IG", "FB/IG", 
+                                                          ifelse(source == "(DIRECT)", "Direct", 
+                                                                 ifelse(source == "YAHOO", "GOOGLE", 
+                                                                        ifelse(source == "CM", "Marketing Email", 
+                                                                               ifelse(source == "TARGETX", "Marketing Email", "Other")))))))))
+head(RSP1)
+```
+
+
+For more details on authoring R presentations please visit <https://usm.maine.edu/office-of-admissions/new-england-regional-tuition-program>.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+
+Slide With Plot
+========================================================
+```{r}
+# Multiple line plot
+ggplot(RSP1, aes(x = Date, y = uniquePageviews)) + 
+  geom_line(aes(color = source), size = 1) +
+  #scale_color_manual(values = c("#00AFBB", "#E7B800")) +
+  theme_minimal()
+```
+
+
+Slide With Code
+========================================================
+
+```{r}
+kable(RSP1 %>% group_by(source) %>% summarise(n = sum(uniquePageviews)) %>% arrange(desc(n)))
+```
+
+
+

@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/492967/419c8622694149e9917bf54efeba82ba
+bundleId: https://api.rpubs.com/api/v1/document/492967/419c8622694149e9917bf54efeba82ba
+url: http://rpubs.com/crystalPlots/492967
+when: 1556909965.96926

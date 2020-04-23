@@ -1,0 +1,224 @@
+
+---
+title: "FY19 KPI  Quarterly Inquiries "
+subtitle: "FA19_KPI"
+author: "Christine Iyer"
+date: "April 23, 2019"
+output:
+  pdf_document: default
+
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(knitr)
+#library(ggplot2)
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir= normalizePath('..'))
+knitr::opts_chunk$set(error = FALSE)
+
+```
+
+---
+
+
+
+
+
+<img src="logo.png" style="position:absolute;top:0px;right:0px;" height=200px width = 100px />
+
+
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+
+```{r}
+library(janitor)
+library(knitr)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+#library(tidyverse)
+library(zoo)
+library(lubridate)
+#<img src="logo.JPG" style="position:absolute;top:0px;right:0px; padding:1px;z-index:60;" />
+```
+
+
+
+
+```{r}
+Inq <- read.csv("file:///C:/Users/christine.iyer/Box/KPI/MarketingForms.csv", header = T, stringsAsFactors = F)
+
+Inq <- Inq %>% rename(
+  State = Primary.State.Code, 
+  Date = Initial.Source.Date, 
+  Initial.Source = Initial.Referral.Source, 
+  #Source2 = Referral.Source.Values..Referral.Source.Values.Name,
+  Start = Anticipated.Start.Year, 
+  Stage = Student.Stage) %>%
+  #clean_names(.,"screaming_snake") %>% 
+  mutate_at(3, ~replace(., is.na(.), 0)) %>% 
+  mutate(Date = as.POSIXct(Date, format = "%m/%d/%Y"), 
+         FY = as.yearmon(Date), 
+         AgeGiven = ifelse(Age == 0, "No Age Given", "Age Given"), 
+         Quarter = paste0("Q", quarter(Date, with_year = FALSE, fiscal_start = 7)))
+```
+
+
+
+```{r}
+Inq1 <- Inq %>% mutate(Initial.Source = ifelse(grepl("HS", Initial.Source), "UG", ifelse(grepl("T", Initial.Source), "TR", ifelse(grepl("DC", Initial.Source), "DC", ifelse(grepl("OL", Initial.Source), "OL", "GR")))), CampaignYR = ifelse(grepl("17", Initial.Source), "FY17", ifelse(grepl("18", Initial.Source),"FY18", "FY19")))
+
+
+Inq2 <- Inq1 %>% group_by( Initial.Source, CampaignYR,Quarter) %>% summarise(Inquiries = n())
+Inq3 <- Inq1 %>% group_by(CampaignYR,Quarter) %>% summarise(Inquiries = n())
+
+Inq3
+Inq4 <- Inq2 %>% spread(Quarter, Inquiries)
+Inq5 <- Inq3 %>% spread(Quarter, Inquiries)
+
+
+```
+
+
+---
+
+## Brief Description:
+
+
+The purpose of this report is to look in to the recent increase in inquiries generated from the forms completed on campaign landing pages. Perhaps there is a particular age demographic that is more likely to do so. Earlier in the year we hypothesized that "Gen Z" was moving away from filling out forms; this prompted us to consider alternative ways to engage the demographic.
+
+---
+
+## Findings
+
+### Historical Inquiry Forms
+
+
+
+The table summarises the performance of the campaign as a whole. Inquiries from Salesforce
+
+```{r}
+kable(Inq5)
+```
+
+---
+
+
+**Visualization at FY Level**
+
+The following plot compares the last 4 FY by quarter. .  
+
+```{r fig.height=3, fig.width=5}
+colorP <- c("#0E1033", "#F6A704", "#CC0033")
+ggplot(Inq3, aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+```
+
+
+---
+
+**Fiscal Year Summary** 
+
+- After no growth in quarterly inquiries from FY17 to FY18 and an even more significant year over year drop in FY19 Q1, it appeared that we needed to rethink form completion as a primary message on our campaign landing pages. 
+
+- Quarters 2 and 3 of this year have shown impressive growth.  
+
+- FY19 Q4 is tracking up as well and will likely surpass FY17 Q4. 
+
+---
+
+
+### Campaign Level
+
+```{r fig.height=4, fig.width=8}
+
+Inq2$facet = factor(Inq2$Initial.Source, levels = c("UG", "TR", "GR", "DC", "OL"))
+ggplot(Inq2, aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP) + facet_wrap(~facet, ncol = 5) +theme(legend.position = "bottom", legend.direction = "horizontal")
+```
+
+---
+
+**Undergraduate Inquiries**
+
+```{r fig.height=3, fig.width=5}
+kable(Inq4 %>% filter(Initial.Source == "UG") %>% select(Campaign = Initial.Source, FY = CampaignYR, Q1, Q2, Q3, Q4))
+
+Inq2 %>% filter(Initial.Source == "UG") %>%  ggplot(aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+
+```
+
+
+**Transfer Inquiries**
+
+```{r fig.height=3, fig.width=5}
+kable(Inq4 %>% filter(Initial.Source == "TR") %>% select(Campaign = Initial.Source,FY = CampaignYR, Q1, Q2, Q3, Q4))
+Inq2 %>% filter(Initial.Source == "TR") %>%  ggplot(aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+```
+
+**Graduate Inquiries**
+
+```{r fig.height=3, fig.width=5}
+kable(Inq4 %>% filter(Initial.Source == "GR") %>% select(Campaign = Initial.Source,FY = CampaignYR, Q1, Q2, Q3, Q4))
+Inq2 %>% filter(Initial.Source == "GR") %>%  ggplot(aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+```
+
+**Degree Completion Inquiries**
+
+```{r fig.height=3, fig.width=5}
+kable(Inq4 %>% filter(Initial.Source == "DC") %>% select(Campaign = Initial.Source,FY = CampaignYR, Q1, Q2, Q3, Q4))
+Inq2 %>% filter(Initial.Source == "DC") %>%  ggplot(aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+```
+
+**Online Program Inquiries**
+
+```{r fig.height=3, fig.width=5}
+kable(Inq4 %>% filter(Initial.Source == "OL") %>% select(Campaign = Initial.Source,FY = CampaignYR, Q1, Q2, Q3, Q4))
+Inq2 %>% filter(Initial.Source == "OL") %>%  ggplot(aes(x = Quarter, y = Inquiries, fill = CampaignYR)) + geom_col(position = "dodge") + theme_bw() + scale_fill_manual(values = colorP)
+```
+
+---
+
+**Campaign Results Summary**
+
+- Because we do not require date of birth in the form completion, we can only infer age from the program type.
+
+- Younger students are still filling out inquiries judging from the last several months.
+
+- However, it is probably still wise to consider alternative ways to reach all demographics.
+
+---
+
+### Location
+
+The cluster of plots below represents the breakdown of where inquiries are coming from by percent and program. We see in FY19 that a much larger percentage of inquiries to the Undergraduate program the out-of-state HS students, shown in red. 
+
+```{r fig.height=5, fig.width=8}
+brks <- c(0, 0.25, 0.5, 0.75, 1)
+
+
+
+Inq7 <- Inq1 %>% mutate(State = ifelse(State == "ME", "Maine", ifelse(State == "", "Out of State", "Unknown"))) %>% group_by(Initial.Source, CampaignYR, State) %>% summarise(Inquiries = n()) %>% 
+  mutate(Percent_of_Inquiries =Inquiries/sum(Inquiries)) 
+Inq7$facet = factor(Inq7$Initial.Source, levels = c("UG", "TR", "GR", "DC", "OL"))
+
+colorP <- c( "#F6A704","#CC0033", "#0E1033")
+ggplot(Inq7, aes(CampaignYR, Percent_of_Inquiries,fill = State))+ geom_bar(position = "fill",stat = "identity") + theme_bw() + facet_wrap(~facet, ncol = 5) + scale_fill_manual(values = colorP) +scale_y_continuous(labels = scales::percent_format()) +theme(legend.position = "bottom", legend.direction = "horizontal")
+```
+
+---
+## Conclusion
+
+
+
+**Notes**
+

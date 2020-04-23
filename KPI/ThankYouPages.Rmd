@@ -1,0 +1,56 @@
+---
+title: "ThankYouPages"
+author: "Office of Marketing and Brand Management"
+date: "4/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+```{r}
+library(dplyr)
+library(lubridate)
+library(knitr)
+```
+
+```{r}
+GA_TY1 <- read.csv("C:/Users/christine.iyer/Box/KPI/FY20_ThankYouPages.csv", header = T, stringsAsFactors = F)
+
+SFTY1 <- read.csv("C:/Users/christine.iyer/Box/KPI/MarketingForms_3-31-20.csv", header = T, stringsAsFactors = F)
+```
+
+```{r}
+SFTY <- SFTY1 %>% mutate(
+  date = as.Date(Initial.Source.Date, format = "%m/%d/%Y"), 
+  FY = ifelse(date > "2018-06-30 " & date <= "2019-06-30", "FY19",
+                     ifelse(date >= "2019-07-01 " & date < "2020-07-01", "FY20","N/A")), 
+  Quarter = paste0((FY),"Q",quarter(date, with_year = FALSE, fiscal_start = 7)), 
+  Source = "SF") %>% group_by(Quarter, Source) %>% summarise(Inquiries = n()) %>% slice(1:7)
+head(SFTY)
+
+```
+
+```{r}
+GA_TY <- GA_TY1 %>% mutate(
+  date = as.Date(date, format = "%m/%d/%Y"), 
+  FY = 
+    ifelse(date > "2018-06-30 " & date <= "2019-06-30", "FY19",
+           ifelse(date >= "2019-07-01 " & date < "2020-07-01", "FY20","N/A")),
+  Quarter = paste0((FY),"Q",quarter(date, with_year = FALSE, fiscal_start = 7)), 
+  Source = "GA") %>% group_by(Quarter, Source) %>% summarise(Inquiries = sum(uniquePageviews)) 
+head(GA_TY)
+```
+
+## Google Analytics vs. Salesforce
+
+```{r}
+kable(merge.data.frame(GA_TY, SFTY, by = "Quarter"))
+```
+
+
