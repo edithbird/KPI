@@ -1,5 +1,5 @@
 ---
-title: "FY20 Quarterly KPI: Q3"
+title: "FY20 Quarterly KPI: Q4"
 author: "Office of Marketing and Brand Management"
 date: "`r Sys.Date()`"
 
@@ -52,30 +52,30 @@ library(stringr)
 
 
 ```{r}
-#FM <- read.csv("file:///Z:/DAA/Marketing/MKT_output.csv", header = T, stringsAsFactors = F)
+FM <- read.csv("file:///Z:/DAA/Marketing/MKT_output.csv", header = T, stringsAsFactors = F)
 ```
 
 
 ```{r}
-FMOrig <- read.csv("C:/Users/christine.iyer/Downloads/MKT_output (2).csv", header = T, stringsAsFactors = F)
+# FMOrig <- read.csv("C:/Users/christine.iyer/Downloads/MKT_output (2).csv", header = T, stringsAsFactors = F)
 ```
 
 ```{r}
-FM <- FMOrig %>% filter(Master_Adname_Type == "NC" )
-FM <- FM %>%
+FM_1 <- FM %>% filter(Master_Adname_Type == "NC" )
+FM_1 <- FM_1 %>%
   mutate(
     Code_Audience = ifelse(Master_Adname == "FA20_BR_FB_VID__TL_UG_D_1", "TL", Code_Audience), 
     Code_Product = ifelse(Master_Adname == "FA20_BR_FB_VID__TL_UG_D_1", "UG", Code_Product)) %>%
   select(1:8, 13, 15:19, 21:24, 26, 28:29, 31:39, 41) %>% 
   select(Master_Date, everything())
-
-FM_20 <- FM %>% 
+###getting lost here
+FM_20 <- FM_1 %>% 
   mutate_at(10:31, ~replace(., is.na(.), 0)) %>% 
-  mutate(Master_Date = as.Date(Master_Date, format = "%m/%d/%Y"), 
+  mutate(Master_Date = as.Date(Master_Date, format = "%Y-%m-%d"), 
          Master_Results = as.numeric(Master_Results), 
          Master_Engagements = as.numeric(Master_Engagements)) %>%
   
-  filter(Master_Date >= "2019-07-01" & Master_Date < "2020-03-31")%>% 
+  filter(Master_Date >= "2019-07-01" & Master_Date < "2020-07-01")%>% 
   arrange(Master_Date) 
 
 ```
@@ -143,7 +143,7 @@ FMQ20 <- FMQ20 %>%
         mutate(ClickThruRate = paste0(ClickRatePct, "%"), BounceRate = paste0(BounceRatePct, "%"), Impressions = format(as.numeric(Impressions), big.mark=","), UPV = format(as.numeric(UPV),  big.mark="," ), Av_TOP = 
 as_hms(Av_TOP))%>%
          select(Quarter, Impressions, CTR = ClickThruRate, UPV, BR = BounceRate, Av_TOP)
-FMQ20$Inquiries <- c(260, 138,163)
+FMQ20$Inquiries <- c(260, 138,163,138)
 kable(FMQ20)
 ```
 
@@ -264,15 +264,17 @@ kable(FY18)
 
 * It is difficult to speculate as to how Covid-19 may have impacted  performance, nevertheless, it is important to note that the social distancing due to the global pandemic became mandatory for the entire third month of the quarter. Digital and social media platforms remain a primary means of staying connected.
 
-* FY20 Q3 KPI continued to be strong. The overall CTR, is the highest we have seen in the past three years.
+* FY20 Q4 KPI continued to be strong. The overall CTR, is the highest we have seen in the past three years.
 
-* The average time on page, 1:40, is steady.
+* The average time on page, 1:20, is slightly lower than Q3.
 
-* Unique page views are way up from last quarter and are at a three year high, more than double from last quarter. This jump is largely due to Snapchat traffic.
+* Unique page views are slightly down from last quarter but remain very strong. 
 
-* The overall bounce rate is higher than that of Q2, however, this is in part due to Snapchat as well. 
+* The overall bounce rate is higher than that of Q2, however, at 87%, it's consistent with past performance.
 
-* The overall number of inquiries is \textcolor{red}{down}, to about half those from FY19Q3; however, they are double from FY18Q3 and up from FY20Q2. I will continue to monitor this performance indicator. 
+* The overall number of inquiries is \textcolor{red}{down}, to about half those from FY19Q4; however, they are double from FY18Q4. I will continue to monitor this performance indicator. 
 
 
+\href{https://www.wrike.com/open.htm?id=502329478}{{\color{blue}{\underline{Wrike Project Details}}}}
 
+\href{https://github.com/edithbird/KPI}{{\color{blue}{\underline{Github Repository}}}}
